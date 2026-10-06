@@ -34,6 +34,10 @@
 	path = extensions/abysswalker-theme
 	url = https://github.com/ModusTeam/abysswalker-zed.git
 
+[submodule "extensions/acore"]
+	path = extensions/acore
+	url = https://github.com/AxiomCore/acore-zed.git
+
 [submodule "extensions/actionscript"]
 	path = extensions/actionscript
 	url = https://github.com/pngdrift/zed-actionscript.git
